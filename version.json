@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "0.11.1",
-    "zipFilename":  "roni-v0.11.1.zip",
-    "releasedAt":  "2026-04-30T13:19:02Z",
-    "notes":  "v0.11.1 — תיקונים: 4 source cards עם SVG icons (target/people/chat/file במקום אמוג\u0027י), Store moduleRaid עם polling 30s + 5 retries, DOM search box עם 6 selectors fallback, הודעות שגיאה מפורטות בעברית",
+    "version":  "0.12.0",
+    "zipFilename":  "roni-v0.12.0.zip",
+    "releasedAt":  "2026-04-30T16:16:38Z",
+    "notes":  "v0.12.0 — תיקון שורש: async-first refactor + טאב אבחון. captureModulesAsync ו-buildStoreAsync מחכים בעצמם ל-webpack (בלי race), refreshStatus עם retry-with-backoff (1s/3s/8s), אבחון מערכת חי בהגדרות שמראה בדיוק מה לא עובד",
     "mandatory":  false
 }
