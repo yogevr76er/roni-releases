@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "0.10.2",
-    "zipFilename":  "roni-v0.10.2.zip",
-    "releasedAt":  "2026-04-30T11:43:14Z",
-    "notes":  "v0.10.2 — תיקון קריטי: SyntaxError ב-popup.js (שכל ה-UI היה stuck בגללו), FAB עבר לימין-תחתון, צבע WA אמיתי (#00a884), CORS ל-raw.githubusercontent, הסרת _comment_icons",
+    "version":  "0.11.0",
+    "zipFilename":  "roni-v0.11.0.zip",
+    "releasedAt":  "2026-04-30T13:00:08Z",
+    "notes":  "v0.11.0 — Design refresh: צבע אפרסק (#F08A5D) במקום ירוק, פונט Assistant, לוגו רוני (R+spark) בFAB ובכותרת, אייקוני SVG מקצועיים בtab bar עם label עברי + underline אפרסק, voice נקבה ראשון יחיד",
     "mandatory":  false
 }
