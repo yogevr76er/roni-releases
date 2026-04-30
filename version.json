@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "0.8.0",
-    "zipFilename":  "roni-v0.8.0.zip",
-    "releasedAt":  "2026-04-30T09:13:17Z",
-    "notes":  "v0.8.0 — Phase 6: רוני נכנס *בתוך* WhatsApp Web! כפתור צף + סרגל RTL נשלף + Ctrl+Shift+R toggle + resize",
+    "version":  "0.9.0",
+    "zipFilename":  "roni-v0.9.0.zip",
+    "releasedAt":  "2026-04-30T09:26:13Z",
+    "notes":  "v0.9.0 — Phase 5: Warmup mode (רמפת חימום 11 ימים) + Google Contacts auto-save (#1 anti-ban mitigation)",
     "mandatory":  false
 }
