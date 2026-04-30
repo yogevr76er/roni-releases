@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "0.11.0",
-    "zipFilename":  "roni-v0.11.0.zip",
-    "releasedAt":  "2026-04-30T13:00:08Z",
-    "notes":  "v0.11.0 — Design refresh: צבע אפרסק (#F08A5D) במקום ירוק, פונט Assistant, לוגו רוני (R+spark) בFAB ובכותרת, אייקוני SVG מקצועיים בtab bar עם label עברי + underline אפרסק, voice נקבה ראשון יחיד",
+    "version":  "0.11.1",
+    "zipFilename":  "roni-v0.11.1.zip",
+    "releasedAt":  "2026-04-30T13:19:02Z",
+    "notes":  "v0.11.1 — תיקונים: 4 source cards עם SVG icons (target/people/chat/file במקום אמוג\u0027י), Store moduleRaid עם polling 30s + 5 retries, DOM search box עם 6 selectors fallback, הודעות שגיאה מפורטות בעברית",
     "mandatory":  false
 }
