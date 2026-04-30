@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "0.5.0",
-    "zipFilename":  "roni-v0.5.0.zip",
-    "releasedAt":  "2026-04-30T07:00:17Z",
-    "notes":  "v0.5.0 — טלמטריה מרכזית ל-Supabase + section הגדרות חדש + אבטחה משופרת",
+    "version":  "0.6.0",
+    "zipFilename":  "roni-v0.6.0.zip",
+    "releasedAt":  "2026-04-30T07:54:06Z",
+    "notes":  "v0.6.0 — Phase 4: רקע queue אמיתי + תזמון לעתיד + reply tracking (Store.Msg hook) + טאב 🚀 שלח חדש",
     "mandatory":  false
 }
