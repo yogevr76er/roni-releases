@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "0.4.0",
-    "zipFilename":  "roni-v0.4.0.zip",
-    "releasedAt":  "2026-04-30T06:26:53Z",
-    "notes":  "v0.4.0 — Phase 3: Safety Layer (פרופילים, שעות פעילות, circuit breaker), טאב תובנות עם heatmap ופורנזיקה, יומן אירועים מובנה",
+    "version":  "0.5.0",
+    "zipFilename":  "roni-v0.5.0.zip",
+    "releasedAt":  "2026-04-30T07:00:17Z",
+    "notes":  "v0.5.0 — טלמטריה מרכזית ל-Supabase + section הגדרות חדש + אבטחה משופרת",
     "mandatory":  false
 }
