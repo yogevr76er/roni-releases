@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "0.10.1",
-    "zipFilename":  "roni-v0.10.1.zip",
-    "releasedAt":  "2026-04-30T11:24:34Z",
-    "notes":  "v0.10.1 — תיקון קריטי לסרגל בתוך WhatsApp: try/catch + log מפורט בכל שלב + ניסיונות חוזרים (300/1000/2500/5000ms) + MutationObserver שמחזיר את הכפתור אם React מוחק",
+    "version":  "0.10.2",
+    "zipFilename":  "roni-v0.10.2.zip",
+    "releasedAt":  "2026-04-30T11:43:14Z",
+    "notes":  "v0.10.2 — תיקון קריטי: SyntaxError ב-popup.js (שכל ה-UI היה stuck בגללו), FAB עבר לימין-תחתון, צבע WA אמיתי (#00a884), CORS ל-raw.githubusercontent, הסרת _comment_icons",
     "mandatory":  false
 }
