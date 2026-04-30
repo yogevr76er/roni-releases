@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "0.9.0",
-    "zipFilename":  "roni-v0.9.0.zip",
-    "releasedAt":  "2026-04-30T09:26:13Z",
-    "notes":  "v0.9.0 — Phase 5: Warmup mode (רמפת חימום 11 ימים) + Google Contacts auto-save (#1 anti-ban mitigation)",
+    "version":  "0.10.0",
+    "zipFilename":  "roni-v0.10.0.zip",
+    "releasedAt":  "2026-04-30T11:04:49Z",
+    "notes":  "v0.10.0 — תיקונים קריטיים: סף כשלים סביר (3/5/7 לא 1/2), טאגליין \u0027וואטסאפ חכם\u0027, טאב 📤 עם BI lookup חי, הודעות שגיאה אמיתיות ב-WA extraction, cap 100 על טעינה מ-BI",
     "mandatory":  false
 }
