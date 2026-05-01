@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "0.13.1",
-    "zipFilename":  "roni-v0.13.1.zip",
-    "releasedAt":  "2026-05-01T11:06:22Z",
-    "notes":  "v0.13.1 — שליחה ידנית מהטאב 📤 לא נחסמת בשעות פעילות / circuit-warning / session-cap. רק 24h-circuit ו-daily-cap בלבד עוצרים בדיקה ידנית. queue האמיתי עוד שומר על כל הכללים.",
+    "version":  "0.13.2",
+    "zipFilename":  "roni-v0.13.2.zip",
+    "releasedAt":  "2026-05-01T11:24:28Z",
+    "notes":  "v0.13.2 — תיקון selectors מאומת מול WA Web אמיתי דרך Chrome MCP. גילוי: WA 2026 משתמש ב\u003cinput type=text\u003e לחיפוש (לא contenteditable!). תוקן findSearchBox + typeIntoField (תומך גם input וגם contenteditable) + findNewChatButton עם aria-labels אמיתיים",
     "mandatory":  false
 }
