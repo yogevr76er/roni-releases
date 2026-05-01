@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "0.13.4",
-    "zipFilename":  "roni-v0.13.4.zip",
-    "releasedAt":  "2026-05-01T15:38:10Z",
-    "notes":  "v0.13.4 — שעות פעילות מבוטלות כברירת מחדל; matching רחב יותר (גם aria-label/title/href, מתעלם מרווחים/מקפים); compose detection 12s עם הסבר מפורט אם נכשל. הסבר ברור על למה NO_MATCHING_RESULT מופיע (לא בקשרים, פורמט שונה, או שליחה לעצמך).",
+    "version":  "0.14.0",
+    "zipFilename":  "roni-v0.14.0.zip",
+    "releasedAt":  "2026-05-01T16:09:23Z",
+    "notes":  "v0.14.0 — Reverse-engineered Joni: parasitic moduleRaid הוא בסדר אם דוחפים אחרי שWA נטען מלא. חזרנו ל-Store API שולח (כמו whatsapp-web.js / Joni). תזמון נכון: ממתין שsearch box + chat list יהיו visible, רק אז הזרקה. עובד למספרים שמורים ולא שמורים, מחזיר ack אמיתי, מטפל בקבוצות.",
     "mandatory":  false
 }
