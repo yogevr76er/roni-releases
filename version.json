@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "0.12.0",
-    "zipFilename":  "roni-v0.12.0.zip",
-    "releasedAt":  "2026-04-30T16:16:38Z",
-    "notes":  "v0.12.0 — תיקון שורש: async-first refactor + טאב אבחון. captureModulesAsync ו-buildStoreAsync מחכים בעצמם ל-webpack (בלי race), refreshStatus עם retry-with-backoff (1s/3s/8s), אבחון מערכת חי בהגדרות שמראה בדיוק מה לא עובד",
+    "version":  "0.13.0",
+    "zipFilename":  "roni-v0.13.0.zip",
+    "releasedAt":  "2026-05-01T11:00:51Z",
+    "notes":  "v0.13.0 — תיקון ביטול מוחלט: לא דוחפים יותר ל-webpack chunk של WhatsApp! זה מה שגרם להתנתקויות וקריסות. עוברים ל-DOM-only sender — אותם selectors שהאבחון אישר. WA Web יישאר יציב.",
     "mandatory":  false
 }
