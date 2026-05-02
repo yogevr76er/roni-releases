@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "0.14.0",
-    "zipFilename":  "roni-v0.14.0.zip",
-    "releasedAt":  "2026-05-01T16:09:23Z",
-    "notes":  "v0.14.0 — Reverse-engineered Joni: parasitic moduleRaid הוא בסדר אם דוחפים אחרי שWA נטען מלא. חזרנו ל-Store API שולח (כמו whatsapp-web.js / Joni). תזמון נכון: ממתין שsearch box + chat list יהיו visible, רק אז הזרקה. עובד למספרים שמורים ולא שמורים, מחזיר ack אמיתי, מטפל בקבוצות.",
+    "version":  "0.15.0",
+    "zipFilename":  "roni-v0.15.0.zip",
+    "releasedAt":  "2026-05-02T10:20:13Z",
+    "notes":  "v0.15.0 — pivot מהפכני: עוברים מהזרקה ל-WhatsApp Web ל-Roni Engine מקומי (Electron + whatsapp-web.js). הExtension נהיה thin client שמדבר עם Engine ב-localhost:7341. שליחה ראשונה הצליחה ✅. דורש התקנת Engine נפרדת + Token בהגדרות.",
     "mandatory":  false
 }
