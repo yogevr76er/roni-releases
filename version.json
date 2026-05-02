@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "0.15.0",
-    "zipFilename":  "roni-v0.15.0.zip",
-    "releasedAt":  "2026-05-02T10:20:13Z",
-    "notes":  "v0.15.0 — pivot מהפכני: עוברים מהזרקה ל-WhatsApp Web ל-Roni Engine מקומי (Electron + whatsapp-web.js). הExtension נהיה thin client שמדבר עם Engine ב-localhost:7341. שליחה ראשונה הצליחה ✅. דורש התקנת Engine נפרדת + Token בהגדרות.",
+    "version":  "0.15.1",
+    "zipFilename":  "roni-v0.15.1.zip",
+    "releasedAt":  "2026-05-02T12:54:57Z",
+    "notes":  "v0.15.1 — תיקון קריטי: עוקפים mixed-content blocking על ידי routing דרך background service worker. content scripts לא יכולים לעשות fetch מhttps לhttp://localhost — background כן יכול. עכשיו השליחה דרך הextension אמורה לעבוד.",
     "mandatory":  false
 }
